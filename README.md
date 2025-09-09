@@ -1,7 +1,6 @@
 # Predicting Gender from Footprints (Kaggle Competition)
 
-### [View the Full Project Report (PDF)](Predicting-Gender-from-Footprints - Colab.pdf) | [View the Jupyter Notebook](data_mining.ipynb)
-
+### [View the Full Project Report (PDF)](Predicting-Gender-from-Footprints%20-%20Colab.pdf) | [View the Jupyter Notebook](Predicting_Gender_from_Footprints.ipynb)
 ---
 
 ## 1. Project Goal
